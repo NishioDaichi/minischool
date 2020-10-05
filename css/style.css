@@ -1,0 +1,15 @@
+header{
+	background-color:#cfc;
+}
+footer{
+	background-color:#cfc;
+}
+footer p{
+	text-align:right;
+	font-size:0.8em;
+}
+body{
+	margin: auto auto auto auto;
+	width: 900px;
+	text-align: center;
+}
